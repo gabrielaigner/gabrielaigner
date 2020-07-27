@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Gabriel Aigner,  and I am a student at the HTL-Leonding with a passion for web development and programming.
+
+
+
 <!--
 **gabrielaigner/gabrielaigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
