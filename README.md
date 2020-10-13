@@ -5,7 +5,6 @@ My name is Gabriel Aigner,  and I am a student at the HTL-Leonding with a passio
 - 🔭 I’m currently working on [Hyvebrain](https://hyvebrain.com) and [Audally](https://audally.com)
 - 🌱 I’m currently learning Quarkus and VueJS
 - 👯 I’m looking for cool people to work with, on cool projects
-- ⚡ Fun fact: I'm the world's youngest billionaire in 2022.
 
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielaigner&show_icons=true&hide_border=true" />
 
