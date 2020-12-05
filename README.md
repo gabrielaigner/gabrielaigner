@@ -2,7 +2,7 @@
 
 My name is Gabriel Aigner,  and I am a student at the HTL-Leonding with a passion for web development and programming.
 
-- 🔭 I’m currently working on [Hyvebrain](https://hyvebrain.com) and [Audally](https://audally.com)
+- 🔭 I’m currently working on [Hyvebrain](https://hyvebrain.com) and [Audally](https://github.com/gabrielaigner/audally)
 - 🌱 I’m currently learning Quarkus and VueJS
 - 👯 I’m looking for cool people to work with, on cool projects
 
